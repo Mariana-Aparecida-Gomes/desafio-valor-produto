@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 200px;
+}
+
+.titulo{
+    margin-bottom: 20px;
+}
+
+.select-form { 
+    width: 250px;
+}
+
+.btn {
+    margin-top: 20px;
+}
